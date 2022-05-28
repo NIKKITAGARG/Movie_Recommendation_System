@@ -24,9 +24,10 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 3. Replace YOUR_API_KEY in **both** the places (line no. 23 and 43) of `static/recommend.js` file.
 4. Open folders .ipynb_checkpoints and datasets, copy all the files and paste them outside the folder along with the folders themselves.
     (i.e. all files of datasets and the folder datasets are in same folder)
-5. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
-6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
-7. Hurray! That's it.
+5. Download credits.csv and movies_metadata.csv from The movies datasets [ Given in the last section i.e. Sources of the Datasets ]
+6. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
+7. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+8. Hurray! That's it.
 
 ### Sources of the datasets 
 
